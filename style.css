@@ -13,7 +13,6 @@ h4{
     color:rgb(49, 19, 158);
 }
 body{
-    color: rgb(255, 31, 188);
-    font-size:20px ;
+    background: linear-gradient(rgb(155, 1, 8),rgb(238, 69, 69),rgb(241, 156, 156));
 }
     
