@@ -1,14 +1,14 @@
 h1{
-    color:rgb(216, 82, 198); 
+    color:rgb(33, 255, 255); 
     font-size: 65px;
 }
 h2{
-    color:rgb(82, 216, 216);
+    color:rgb(255, 0, 0);
 }
 h3{
-    color:rgb(82, 107, 216);
+    color:rgb(0, 47, 255);
 }
 h4{
-    color:rgb(82, 102, 216);
+    color:rgb(0, 38, 255);
 }
 body
