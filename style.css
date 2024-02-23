@@ -12,4 +12,7 @@ h3{
 h4{
     color:rgb(0, 38, 255);
 }
-body
+body{
+    color: blueviolet;
+    font-size:100px ;
+}
