@@ -4,13 +4,13 @@ h1{
     text-align: center;
 }
 h2{
-    color:rgb(255, 0, 0);
+    color:rgb(0, 0, 0);
 }
 h3{
-    color:rgb(72, 14, 138);
+    color:rgb(119, 0, 255);
 }
 h4{
-    color:rgb(49, 19, 158);
+    color:rgb(55, 0, 255);
 }
 body{
     background: linear-gradient(rgb(145, 111, 153),rgb(196, 117, 196),rgb(253, 200, 255));
